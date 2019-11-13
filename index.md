@@ -1,5 +1,9 @@
 ## (a bit) About me
 
+That's me
+![just myself](https://github.com/ajbn/ajbn.github.io/blob/master/foto-ajbn3.jpg)
+
+and thats's
 Me at Entrecampos rail station near Lisbon University
 ![AJBN at Entrecampos rail station](https://github.com/ajbn/ajbn.github.io/blob/master/fotoAJBN_entrecampos.jpg)
 
