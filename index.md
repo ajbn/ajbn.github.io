@@ -1,7 +1,7 @@
 ## (a bit) About me
 
 Me at Entrecampos rail station near Lisbon University
-[AJBN at Entrecampos rail station](https://github.com/ajbn/ajbn.github.io/blob/master/fotoAJBN_entrecampos.jpg)
+![AJBN at Entrecampos rail station](https://github.com/ajbn/ajbn.github.io/blob/master/fotoAJBN_entrecampos.jpg)
 
 Antonio Barros is an Assistant Professor in Mathematics, Statistics,
 and Informatics Department at State University of Pará in Brazil. He
