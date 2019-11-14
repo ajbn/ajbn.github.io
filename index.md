@@ -1,6 +1,7 @@
 ## (a bit) About me
 
 That's me at Entrecampos rail station near Lisbon University
+
 ![AJBN at Entrecampos rail station](fotoAJBN_entrecampos.jpg)
 
 Antonio Barros is an Assistant Professor in Mathematics, Statistics,
